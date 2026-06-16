@@ -119,7 +119,8 @@ st.subheader("FBA Inventory")
 st.dataframe(
     df,
     width="stretch",
-    height=1200
+    height=1200,
+    hide_index=True
 )
 
 csv = df.to_csv(index=False).encode("utf-8-sig")
