@@ -1,6 +1,6 @@
 import os
 from datetime import datetime
-
+from zoneinfo import ZoneInfo
 import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
@@ -87,9 +87,17 @@ df = df.sort_values(
     ascending=False
 )
 
-updated_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+kr_time = datetime.now(
+    ZoneInfo("Asia/Seoul")
+).strftime("%Y-%m-%d %H:%M:%S")
 
-st.caption(f"Last Updated: {updated_time}")
+pdt_time = datetime.now(
+    ZoneInfo("America/Los_Angeles")
+).strftime("%Y-%m-%d %H:%M:%S")
+
+st.caption(
+    f"Last Updated | KST: {kr_time} | PDT: {pdt_time}"
+)
 
 col1, col2, col3 = st.columns(3)
 
