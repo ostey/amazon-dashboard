@@ -55,6 +55,12 @@ while True:
 
     if not next_token:
         break
+# SKU → 상품명 매핑
+sku_names = {
+    "BLACKT-EU6035501-LAUNCHMONITOR": "SHOT5 런치모니터",
+    "BLACKT-RANGEFINDER": "골프 레이저 거리측정기",
+    "PROIMPACTOR": "프로임팩터",
+}
 
 rows = []
 
@@ -73,11 +79,11 @@ for item in items:
     inbound_total = inbound_working + inbound_shipped + inbound_receiving
 
     rows.append({
-        "SKU": sku,
-        "ASIN": asin,
-        "Available": available,
-        "Reserved": reserved,
-        "Inbound": inbound_total,
+    "Product": sku_names.get(sku, sku),
+    "ASIN": asin,
+    "Available": available,
+    "Reserved": reserved,
+    "Inbound": inbound_total,
     })
 
 df = pd.DataFrame(rows)
