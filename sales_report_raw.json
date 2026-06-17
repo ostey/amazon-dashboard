@@ -1,0 +1,1929 @@
+{
+  "reportSpecification": {
+    "reportType": "GET_SALES_AND_TRAFFIC_REPORT",
+    "reportOptions": {
+      "dateGranularity": "DAY",
+      "asinGranularity": "CHILD"
+    },
+    "dataStartTime": "2026-06-01",
+    "dataEndTime": "2026-06-17",
+    "marketplaceIds": [
+      "ATVPDKIKX0DER"
+    ]
+  },
+  "salesAndTrafficByDate": [
+    {
+      "date": "2026-06-01",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 200.05,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 94.05,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 4,
+        "unitsOrderedB2B": 1,
+        "totalOrderItems": 4,
+        "totalOrderItemsB2B": 1,
+        "averageSalesPerOrderItem": {
+          "amount": 50.01,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 94.05,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 1.0,
+        "averageSellingPrice": {
+          "amount": 50.01,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 94.05,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 25.0,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 619.75,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 13,
+        "ordersShipped": 12
+      },
+      "trafficByDate": {
+        "browserPageViews": 44,
+        "browserPageViewsB2B": 3,
+        "mobileAppPageViews": 107,
+        "mobileAppPageViewsB2B": 3,
+        "pageViews": 151,
+        "pageViewsB2B": 6,
+        "browserSessions": 39,
+        "browserSessionsB2B": 3,
+        "mobileAppSessions": 73,
+        "mobileAppSessionsB2B": 3,
+        "sessions": 112,
+        "sessionsB2B": 6,
+        "buyBoxPercentage": 97.62,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 3.57,
+        "orderItemSessionPercentageB2B": 16.67,
+        "unitSessionPercentage": 3.57,
+        "unitSessionPercentageB2B": 16.67,
+        "averageOfferCount": 20,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 1541.97,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 38,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 38,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 40.58,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 40.58,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 2.63,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 95.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 4,
+        "ordersShipped": 3
+      },
+      "trafficByDate": {
+        "browserPageViews": 239,
+        "browserPageViewsB2B": 9,
+        "mobileAppPageViews": 255,
+        "mobileAppPageViewsB2B": 6,
+        "pageViews": 494,
+        "pageViewsB2B": 15,
+        "browserSessions": 191,
+        "browserSessionsB2B": 5,
+        "mobileAppSessions": 214,
+        "mobileAppSessionsB2B": 4,
+        "sessions": 405,
+        "sessionsB2B": 9,
+        "buyBoxPercentage": 99.34,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 9.38,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 9.38,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 20,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 1976.94,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 299.99,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 9,
+        "unitsOrderedB2B": 1,
+        "totalOrderItems": 9,
+        "totalOrderItemsB2B": 1,
+        "averageSalesPerOrderItem": {
+          "amount": 219.66,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 299.99,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 1.0,
+        "averageSellingPrice": {
+          "amount": 219.66,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 299.99,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 11.11,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 2200.95,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 37,
+        "ordersShipped": 37
+      },
+      "trafficByDate": {
+        "browserPageViews": 69,
+        "browserPageViewsB2B": 1,
+        "mobileAppPageViews": 148,
+        "mobileAppPageViewsB2B": 2,
+        "pageViews": 217,
+        "pageViewsB2B": 3,
+        "browserSessions": 54,
+        "browserSessionsB2B": 1,
+        "mobileAppSessions": 100,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 154,
+        "sessionsB2B": 3,
+        "buyBoxPercentage": 98.96,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 5.84,
+        "orderItemSessionPercentageB2B": 33.33,
+        "unitSessionPercentage": 5.84,
+        "unitSessionPercentageB2B": 33.33,
+        "averageOfferCount": 20,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 548.99,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 7,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 5,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 109.8,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.4,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 78.43,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 14.29,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 853.98,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 9,
+        "ordersShipped": 9
+      },
+      "trafficByDate": {
+        "browserPageViews": 64,
+        "browserPageViewsB2B": 4,
+        "mobileAppPageViews": 158,
+        "mobileAppPageViewsB2B": 1,
+        "pageViews": 222,
+        "pageViewsB2B": 5,
+        "browserSessions": 49,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 117,
+        "mobileAppSessionsB2B": 1,
+        "sessions": 166,
+        "sessionsB2B": 3,
+        "buyBoxPercentage": 95.38,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 3.01,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 4.22,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 19,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 401.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 11,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 8,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 50.12,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.38,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 36.45,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 2,
+        "refundRate": 18.18,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 532.04,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 6,
+        "ordersShipped": 5
+      },
+      "trafficByDate": {
+        "browserPageViews": 68,
+        "browserPageViewsB2B": 3,
+        "mobileAppPageViews": 175,
+        "mobileAppPageViewsB2B": 3,
+        "pageViews": 243,
+        "pageViewsB2B": 6,
+        "browserSessions": 55,
+        "browserSessionsB2B": 3,
+        "mobileAppSessions": 125,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 180,
+        "sessionsB2B": 5,
+        "buyBoxPercentage": 93.95,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 4.44,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 6.11,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 207.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 6,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 4,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 51.75,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.5,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 34.5,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 16.67,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 440.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 10,
+        "ordersShipped": 8
+      },
+      "trafficByDate": {
+        "browserPageViews": 61,
+        "browserPageViewsB2B": 3,
+        "mobileAppPageViews": 224,
+        "mobileAppPageViewsB2B": 1,
+        "pageViews": 285,
+        "pageViewsB2B": 4,
+        "browserSessions": 48,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 155,
+        "mobileAppSessionsB2B": 1,
+        "sessions": 203,
+        "sessionsB2B": 3,
+        "buyBoxPercentage": 97.88,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 1.97,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 2.96,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 52.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 4,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 4,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 13.0,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 13.0,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 25.0,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 104.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 8,
+        "ordersShipped": 6
+      },
+      "trafficByDate": {
+        "browserPageViews": 104,
+        "browserPageViewsB2B": 5,
+        "mobileAppPageViews": 296,
+        "mobileAppPageViewsB2B": 2,
+        "pageViews": 400,
+        "pageViewsB2B": 7,
+        "browserSessions": 86,
+        "browserSessionsB2B": 4,
+        "mobileAppSessions": 215,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 301,
+        "sessionsB2B": 6,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 1.33,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 1.33,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 661.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 10,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 10,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 66.1,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 66.1,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 10.0,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 224.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 4,
+        "ordersShipped": 4
+      },
+      "trafficByDate": {
+        "browserPageViews": 115,
+        "browserPageViewsB2B": 2,
+        "mobileAppPageViews": 275,
+        "mobileAppPageViewsB2B": 13,
+        "pageViews": 390,
+        "pageViewsB2B": 15,
+        "browserSessions": 99,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 178,
+        "mobileAppSessionsB2B": 7,
+        "sessions": 277,
+        "sessionsB2B": 9,
+        "buyBoxPercentage": 97.27,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 3.61,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 3.61,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 462.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 8,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 8,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 57.75,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 57.75,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 12.5,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 807.98,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 8,
+        "ordersShipped": 8
+      },
+      "trafficByDate": {
+        "browserPageViews": 95,
+        "browserPageViewsB2B": 5,
+        "mobileAppPageViews": 237,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 332,
+        "pageViewsB2B": 5,
+        "browserSessions": 74,
+        "browserSessionsB2B": 4,
+        "mobileAppSessions": 179,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 253,
+        "sessionsB2B": 4,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 3.16,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 3.16,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 471.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 9,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 6,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 78.5,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.5,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 52.33,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 1,
+        "refundRate": 11.11,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 552.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 12,
+        "ordersShipped": 10
+      },
+      "trafficByDate": {
+        "browserPageViews": 100,
+        "browserPageViewsB2B": 7,
+        "mobileAppPageViews": 202,
+        "mobileAppPageViewsB2B": 10,
+        "pageViews": 302,
+        "pageViewsB2B": 17,
+        "browserSessions": 73,
+        "browserSessionsB2B": 5,
+        "mobileAppSessions": 146,
+        "mobileAppSessionsB2B": 6,
+        "sessions": 219,
+        "sessionsB2B": 11,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 2.74,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 4.11,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 23,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 626.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 11,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 11,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 56.91,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 56.91,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 3,
+        "refundRate": 27.27,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 77.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 2,
+        "ordersShipped": 2
+      },
+      "trafficByDate": {
+        "browserPageViews": 100,
+        "browserPageViewsB2B": 8,
+        "mobileAppPageViews": 218,
+        "mobileAppPageViewsB2B": 2,
+        "pageViews": 318,
+        "pageViewsB2B": 10,
+        "browserSessions": 71,
+        "browserSessionsB2B": 3,
+        "mobileAppSessions": 166,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 237,
+        "sessionsB2B": 5,
+        "buyBoxPercentage": 98.53,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 4.64,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 4.64,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 13,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 1075.4,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 186.4,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 13,
+        "unitsOrderedB2B": 3,
+        "totalOrderItems": 13,
+        "totalOrderItemsB2B": 3,
+        "averageSalesPerOrderItem": {
+          "amount": 82.72,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 62.13,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 1.0,
+        "averageSellingPrice": {
+          "amount": 82.72,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 62.13,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 7,
+        "refundRate": 53.85,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 242.35,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 6,
+        "ordersShipped": 6
+      },
+      "trafficByDate": {
+        "browserPageViews": 55,
+        "browserPageViewsB2B": 4,
+        "mobileAppPageViews": 196,
+        "mobileAppPageViewsB2B": 7,
+        "pageViews": 251,
+        "pageViewsB2B": 11,
+        "browserSessions": 41,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 142,
+        "mobileAppSessionsB2B": 3,
+        "sessions": 183,
+        "sessionsB2B": 5,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 7.1,
+        "orderItemSessionPercentageB2B": 60.0,
+        "unitSessionPercentage": 7.1,
+        "unitSessionPercentageB2B": 60.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 1042.99,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 14,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 13,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 80.23,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.08,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 74.5,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 0,
+        "refundRate": 0.0,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 450.05,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 6,
+        "ordersShipped": 6
+      },
+      "trafficByDate": {
+        "browserPageViews": 113,
+        "browserPageViewsB2B": 4,
+        "mobileAppPageViews": 197,
+        "mobileAppPageViewsB2B": 5,
+        "pageViews": 310,
+        "pageViewsB2B": 9,
+        "browserSessions": 82,
+        "browserSessionsB2B": 4,
+        "mobileAppSessions": 142,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 224,
+        "sessionsB2B": 6,
+        "buyBoxPercentage": 99.61,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 5.8,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 6.25,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 442.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 6,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 6,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 73.67,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.0,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 73.67,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 0,
+        "refundRate": 0.0,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 692.99,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 7,
+        "ordersShipped": 7
+      },
+      "trafficByDate": {
+        "browserPageViews": 92,
+        "browserPageViewsB2B": 9,
+        "mobileAppPageViews": 303,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 395,
+        "pageViewsB2B": 9,
+        "browserSessions": 68,
+        "browserSessionsB2B": 6,
+        "mobileAppSessions": 220,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 288,
+        "sessionsB2B": 6,
+        "buyBoxPercentage": 98.21,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 2.08,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 2.08,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "salesByDate": {
+        "orderedProductSales": {
+          "amount": 650.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsOrdered": 11,
+        "unitsOrderedB2B": 0,
+        "totalOrderItems": 10,
+        "totalOrderItemsB2B": 0,
+        "averageSalesPerOrderItem": {
+          "amount": 65.0,
+          "currencyCode": "USD"
+        },
+        "averageSalesPerOrderItemB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "averageUnitsPerOrderItem": 1.1,
+        "averageUnitsPerOrderItemB2B": 0.0,
+        "averageSellingPrice": {
+          "amount": 59.09,
+          "currencyCode": "USD"
+        },
+        "averageSellingPriceB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "unitsRefunded": 3,
+        "refundRate": 27.27,
+        "claimsGranted": 0,
+        "claimsAmount": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "shippedProductSales": {
+          "amount": 237.0,
+          "currencyCode": "USD"
+        },
+        "unitsShipped": 5,
+        "ordersShipped": 4
+      },
+      "trafficByDate": {
+        "browserPageViews": 88,
+        "browserPageViewsB2B": 6,
+        "mobileAppPageViews": 211,
+        "mobileAppPageViewsB2B": 3,
+        "pageViews": 299,
+        "pageViewsB2B": 9,
+        "browserSessions": 71,
+        "browserSessionsB2B": 5,
+        "mobileAppSessions": 142,
+        "mobileAppSessionsB2B": 3,
+        "sessions": 213,
+        "sessionsB2B": 8,
+        "buyBoxPercentage": 98.42,
+        "buyBoxPercentageB2B": 100.0,
+        "orderItemSessionPercentage": 4.69,
+        "orderItemSessionPercentageB2B": 0.0,
+        "unitSessionPercentage": 5.16,
+        "unitSessionPercentageB2B": 0.0,
+        "averageOfferCount": 22,
+        "averageParentItems": 12,
+        "feedbackReceived": 0,
+        "negativeFeedbackReceived": 0,
+        "receivedNegativeFeedbackRate": 0.0
+      }
+    }
+  ],
+  "salesAndTrafficByAsin": [
+    {
+      "parentAsin": "B0CRGHYLGV",
+      "childAsin": "B0CRGHYLGV",
+      "salesByAsin": {
+        "unitsOrdered": 4,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 320.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 4,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 112,
+        "browserSessionsB2B": 7,
+        "mobileAppSessions": 232,
+        "mobileAppSessionsB2B": 6,
+        "sessions": 344,
+        "sessionsB2B": 13,
+        "browserSessionPercentage": 10.17,
+        "browserSessionPercentageB2B": 13.73,
+        "mobileAppSessionPercentage": 10.03,
+        "mobileAppSessionPercentageB2B": 15.79,
+        "sessionPercentage": 10.07,
+        "sessionPercentageB2B": 14.61,
+        "browserPageViews": 136,
+        "browserPageViewsB2B": 13,
+        "mobileAppPageViews": 345,
+        "mobileAppPageViewsB2B": 7,
+        "pageViews": 481,
+        "pageViewsB2B": 20,
+        "browserPageViewsPercentage": 9.67,
+        "browserPageViewsPercentageB2B": 17.81,
+        "mobileAppPageViewsPercentage": 10.77,
+        "mobileAppPageViewsPercentageB2B": 12.07,
+        "pageViewsPercentage": 10.44,
+        "pageViewsPercentageB2B": 15.27,
+        "buyBoxPercentage": 98.7,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 1.16,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0CTZX6CSF",
+      "childAsin": "B0CTZX6CSF",
+      "salesByAsin": {
+        "unitsOrdered": 0,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 0,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 1,
+        "browserSessionsB2B": 0,
+        "mobileAppSessions": 0,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 1,
+        "sessionsB2B": 0,
+        "browserSessionPercentage": 0.09,
+        "browserSessionPercentageB2B": 0.0,
+        "mobileAppSessionPercentage": 0.0,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 0.03,
+        "sessionPercentageB2B": 0.0,
+        "browserPageViews": 1,
+        "browserPageViewsB2B": 0,
+        "mobileAppPageViews": 0,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 1,
+        "pageViewsB2B": 0,
+        "browserPageViewsPercentage": 0.07,
+        "browserPageViewsPercentageB2B": 0.0,
+        "mobileAppPageViewsPercentage": 0.0,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 0.02,
+        "pageViewsPercentageB2B": 0.0,
+        "buyBoxPercentage": 0.0,
+        "buyBoxPercentageB2B": 0.0,
+        "unitSessionPercentage": 0.0,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0CTZX6CSF",
+      "childAsin": "B0CTZYJ5XH",
+      "salesByAsin": {
+        "unitsOrdered": 20,
+        "unitsOrderedB2B": 1,
+        "orderedProductSales": {
+          "amount": 1975.05,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 94.05,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 20,
+        "totalOrderItemsB2B": 1
+      },
+      "trafficByAsin": {
+        "browserSessions": 111,
+        "browserSessionsB2B": 6,
+        "mobileAppSessions": 257,
+        "mobileAppSessionsB2B": 5,
+        "sessions": 368,
+        "sessionsB2B": 11,
+        "browserSessionPercentage": 10.08,
+        "browserSessionPercentageB2B": 11.76,
+        "mobileAppSessionPercentage": 11.11,
+        "mobileAppSessionPercentageB2B": 13.16,
+        "sessionPercentage": 10.78,
+        "sessionPercentageB2B": 12.36,
+        "browserPageViews": 131,
+        "browserPageViewsB2B": 7,
+        "mobileAppPageViews": 364,
+        "mobileAppPageViewsB2B": 8,
+        "pageViews": 495,
+        "pageViewsB2B": 15,
+        "browserPageViewsPercentage": 9.31,
+        "browserPageViewsPercentageB2B": 9.59,
+        "mobileAppPageViewsPercentage": 11.37,
+        "mobileAppPageViewsPercentageB2B": 13.79,
+        "pageViewsPercentage": 10.74,
+        "pageViewsPercentageB2B": 11.45,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 5.43,
+        "unitSessionPercentageB2B": 9.09
+      }
+    },
+    {
+      "parentAsin": "B0CTZX6CSF",
+      "childAsin": "B0CV11V568",
+      "salesByAsin": {
+        "unitsOrdered": 2,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 198.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 2,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 29,
+        "browserSessionsB2B": 1,
+        "mobileAppSessions": 69,
+        "mobileAppSessionsB2B": 1,
+        "sessions": 98,
+        "sessionsB2B": 2,
+        "browserSessionPercentage": 2.63,
+        "browserSessionPercentageB2B": 1.96,
+        "mobileAppSessionPercentage": 2.98,
+        "mobileAppSessionPercentageB2B": 2.63,
+        "sessionPercentage": 2.87,
+        "sessionPercentageB2B": 2.25,
+        "browserPageViews": 35,
+        "browserPageViewsB2B": 2,
+        "mobileAppPageViews": 81,
+        "mobileAppPageViewsB2B": 3,
+        "pageViews": 116,
+        "pageViewsB2B": 5,
+        "browserPageViewsPercentage": 2.49,
+        "browserPageViewsPercentageB2B": 2.74,
+        "mobileAppPageViewsPercentage": 2.53,
+        "mobileAppPageViewsPercentageB2B": 5.17,
+        "pageViewsPercentage": 2.52,
+        "pageViewsPercentageB2B": 3.82,
+        "buyBoxPercentage": 86.49,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 2.04,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0CTZX6CSF",
+      "childAsin": "B0CV12P8MN",
+      "salesByAsin": {
+        "unitsOrdered": 11,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 143.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 11,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 105,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 298,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 403,
+        "sessionsB2B": 2,
+        "browserSessionPercentage": 9.54,
+        "browserSessionPercentageB2B": 3.92,
+        "mobileAppSessionPercentage": 12.88,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 11.8,
+        "sessionPercentageB2B": 2.25,
+        "browserPageViews": 134,
+        "browserPageViewsB2B": 4,
+        "mobileAppPageViews": 380,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 514,
+        "pageViewsB2B": 4,
+        "browserPageViewsPercentage": 9.52,
+        "browserPageViewsPercentageB2B": 5.48,
+        "mobileAppPageViewsPercentage": 11.87,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 11.15,
+        "pageViewsPercentageB2B": 3.05,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 2.73,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0CTZX6CSF",
+      "childAsin": "B0CV12XLDX",
+      "salesByAsin": {
+        "unitsOrdered": 41,
+        "unitsOrderedB2B": 1,
+        "orderedProductSales": {
+          "amount": 532.35,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 12.35,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 29,
+        "totalOrderItemsB2B": 1
+      },
+      "trafficByAsin": {
+        "browserSessions": 57,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 139,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 196,
+        "sessionsB2B": 2,
+        "browserSessionPercentage": 5.18,
+        "browserSessionPercentageB2B": 3.92,
+        "mobileAppSessionPercentage": 6.01,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 5.74,
+        "sessionPercentageB2B": 2.25,
+        "browserPageViews": 76,
+        "browserPageViewsB2B": 2,
+        "mobileAppPageViews": 180,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 256,
+        "pageViewsB2B": 2,
+        "browserPageViewsPercentage": 5.4,
+        "browserPageViewsPercentageB2B": 2.74,
+        "mobileAppPageViewsPercentage": 5.62,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 5.55,
+        "pageViewsPercentageB2B": 1.53,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 20.92,
+        "unitSessionPercentageB2B": 50.0
+      }
+    },
+    {
+      "parentAsin": "B0DDKMS35C",
+      "childAsin": "B0DDKMS35C",
+      "salesByAsin": {
+        "unitsOrdered": 8,
+        "unitsOrderedB2B": 1,
+        "orderedProductSales": {
+          "amount": 787.05,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 94.05,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 8,
+        "totalOrderItemsB2B": 1
+      },
+      "trafficByAsin": {
+        "browserSessions": 106,
+        "browserSessionsB2B": 6,
+        "mobileAppSessions": 221,
+        "mobileAppSessionsB2B": 4,
+        "sessions": 327,
+        "sessionsB2B": 10,
+        "browserSessionPercentage": 9.63,
+        "browserSessionPercentageB2B": 11.76,
+        "mobileAppSessionPercentage": 9.55,
+        "mobileAppSessionPercentageB2B": 10.53,
+        "sessionPercentage": 9.58,
+        "sessionPercentageB2B": 11.24,
+        "browserPageViews": 153,
+        "browserPageViewsB2B": 8,
+        "mobileAppPageViews": 317,
+        "mobileAppPageViewsB2B": 5,
+        "pageViews": 470,
+        "pageViewsB2B": 13,
+        "browserPageViewsPercentage": 10.87,
+        "browserPageViewsPercentageB2B": 10.96,
+        "mobileAppPageViewsPercentage": 9.9,
+        "mobileAppPageViewsPercentageB2B": 8.62,
+        "pageViewsPercentage": 10.2,
+        "pageViewsPercentageB2B": 9.92,
+        "buyBoxPercentage": 99.74,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 2.45,
+        "unitSessionPercentageB2B": 10.0
+      }
+    },
+    {
+      "parentAsin": "B0DGTH6XSY",
+      "childAsin": "B0DGTH6XSY",
+      "salesByAsin": {
+        "unitsOrdered": 0,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 0,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 5,
+        "browserSessionsB2B": 1,
+        "mobileAppSessions": 4,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 9,
+        "sessionsB2B": 1,
+        "browserSessionPercentage": 0.45,
+        "browserSessionPercentageB2B": 1.96,
+        "mobileAppSessionPercentage": 0.17,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 0.26,
+        "sessionPercentageB2B": 1.12,
+        "browserPageViews": 5,
+        "browserPageViewsB2B": 1,
+        "mobileAppPageViews": 5,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 10,
+        "pageViewsB2B": 1,
+        "browserPageViewsPercentage": 0.36,
+        "browserPageViewsPercentageB2B": 1.37,
+        "mobileAppPageViewsPercentage": 0.16,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 0.22,
+        "pageViewsPercentageB2B": 0.76,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 0.0,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0DK7F81VB",
+      "childAsin": "B0DK7F81VB",
+      "salesByAsin": {
+        "unitsOrdered": 6,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 390.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 6,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 47,
+        "browserSessionsB2B": 2,
+        "mobileAppSessions": 124,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 171,
+        "sessionsB2B": 4,
+        "browserSessionPercentage": 4.27,
+        "browserSessionPercentageB2B": 3.92,
+        "mobileAppSessionPercentage": 5.36,
+        "mobileAppSessionPercentageB2B": 5.26,
+        "sessionPercentage": 5.01,
+        "sessionPercentageB2B": 4.49,
+        "browserPageViews": 61,
+        "browserPageViewsB2B": 2,
+        "mobileAppPageViews": 162,
+        "mobileAppPageViewsB2B": 2,
+        "pageViews": 223,
+        "pageViewsB2B": 4,
+        "browserPageViewsPercentage": 4.34,
+        "browserPageViewsPercentageB2B": 2.74,
+        "mobileAppPageViewsPercentage": 5.06,
+        "mobileAppPageViewsPercentageB2B": 3.45,
+        "pageViewsPercentage": 4.84,
+        "pageViewsPercentageB2B": 3.05,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 3.51,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0DYNK7HLS",
+      "childAsin": "B0DYNK7HLS",
+      "salesByAsin": {
+        "unitsOrdered": 0,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 0,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 0,
+        "browserSessionsB2B": 0,
+        "mobileAppSessions": 1,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 1,
+        "sessionsB2B": 0,
+        "browserSessionPercentage": 0.0,
+        "browserSessionPercentageB2B": 0.0,
+        "mobileAppSessionPercentage": 0.04,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 0.03,
+        "sessionPercentageB2B": 0.0,
+        "browserPageViews": 0,
+        "browserPageViewsB2B": 0,
+        "mobileAppPageViews": 1,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 1,
+        "pageViewsB2B": 0,
+        "browserPageViewsPercentage": 0.0,
+        "browserPageViewsPercentageB2B": 0.0,
+        "mobileAppPageViewsPercentage": 0.03,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 0.02,
+        "pageViewsPercentageB2B": 0.0,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 0.0,
+        "unitSessionPercentage": 0.0,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0F2186BNX",
+      "childAsin": "B0F2186BNX",
+      "salesByAsin": {
+        "unitsOrdered": 0,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 0,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 0,
+        "browserSessionsB2B": 0,
+        "mobileAppSessions": 1,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 1,
+        "sessionsB2B": 0,
+        "browserSessionPercentage": 0.0,
+        "browserSessionPercentageB2B": 0.0,
+        "mobileAppSessionPercentage": 0.04,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 0.03,
+        "sessionPercentageB2B": 0.0,
+        "browserPageViews": 0,
+        "browserPageViewsB2B": 0,
+        "mobileAppPageViews": 1,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 1,
+        "pageViewsB2B": 0,
+        "browserPageViewsPercentage": 0.0,
+        "browserPageViewsPercentageB2B": 0.0,
+        "mobileAppPageViewsPercentage": 0.03,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 0.02,
+        "pageViewsPercentageB2B": 0.0,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 0.0,
+        "unitSessionPercentage": 0.0,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0F2M6MPD7",
+      "childAsin": "B0F2M6MPD7",
+      "salesByAsin": {
+        "unitsOrdered": 0,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 0,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 1,
+        "browserSessionsB2B": 0,
+        "mobileAppSessions": 0,
+        "mobileAppSessionsB2B": 0,
+        "sessions": 1,
+        "sessionsB2B": 0,
+        "browserSessionPercentage": 0.09,
+        "browserSessionPercentageB2B": 0.0,
+        "mobileAppSessionPercentage": 0.0,
+        "mobileAppSessionPercentageB2B": 0.0,
+        "sessionPercentage": 0.03,
+        "sessionPercentageB2B": 0.0,
+        "browserPageViews": 2,
+        "browserPageViewsB2B": 0,
+        "mobileAppPageViews": 0,
+        "mobileAppPageViewsB2B": 0,
+        "pageViews": 2,
+        "pageViewsB2B": 0,
+        "browserPageViewsPercentage": 0.14,
+        "browserPageViewsPercentageB2B": 0.0,
+        "mobileAppPageViewsPercentage": 0.0,
+        "mobileAppPageViewsPercentageB2B": 0.0,
+        "pageViewsPercentage": 0.04,
+        "pageViewsPercentageB2B": 0.0,
+        "buyBoxPercentage": 100.0,
+        "buyBoxPercentageB2B": 0.0,
+        "unitSessionPercentage": 0.0,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0FT2NP8L7",
+      "childAsin": "B0FT2NP8L7",
+      "salesByAsin": {
+        "unitsOrdered": 32,
+        "unitsOrderedB2B": 1,
+        "orderedProductSales": {
+          "amount": 2432.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 80.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 32,
+        "totalOrderItemsB2B": 1
+      },
+      "trafficByAsin": {
+        "browserSessions": 199,
+        "browserSessionsB2B": 11,
+        "mobileAppSessions": 503,
+        "mobileAppSessionsB2B": 8,
+        "sessions": 702,
+        "sessionsB2B": 19,
+        "browserSessionPercentage": 18.07,
+        "browserSessionPercentageB2B": 21.57,
+        "mobileAppSessionPercentage": 21.74,
+        "mobileAppSessionPercentageB2B": 21.05,
+        "sessionPercentage": 20.56,
+        "sessionPercentageB2B": 21.35,
+        "browserPageViews": 265,
+        "browserPageViewsB2B": 14,
+        "mobileAppPageViews": 749,
+        "mobileAppPageViewsB2B": 14,
+        "pageViews": 1014,
+        "pageViewsB2B": 28,
+        "browserPageViewsPercentage": 18.83,
+        "browserPageViewsPercentageB2B": 19.18,
+        "mobileAppPageViewsPercentage": 23.39,
+        "mobileAppPageViewsPercentageB2B": 24.14,
+        "pageViewsPercentage": 22.0,
+        "pageViewsPercentageB2B": 21.37,
+        "buyBoxPercentage": 98.62,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 4.56,
+        "unitSessionPercentageB2B": 5.26
+      }
+    },
+    {
+      "parentAsin": "B0FY6RK5MQ",
+      "childAsin": "B0FY6RK5MQ",
+      "salesByAsin": {
+        "unitsOrdered": 3,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 168.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 3,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 50,
+        "browserSessionsB2B": 5,
+        "mobileAppSessions": 97,
+        "mobileAppSessionsB2B": 2,
+        "sessions": 147,
+        "sessionsB2B": 7,
+        "browserSessionPercentage": 4.54,
+        "browserSessionPercentageB2B": 9.8,
+        "mobileAppSessionPercentage": 4.19,
+        "mobileAppSessionPercentageB2B": 5.26,
+        "sessionPercentage": 4.3,
+        "sessionPercentageB2B": 7.87,
+        "browserPageViews": 75,
+        "browserPageViewsB2B": 8,
+        "mobileAppPageViews": 154,
+        "mobileAppPageViewsB2B": 2,
+        "pageViews": 229,
+        "pageViewsB2B": 10,
+        "browserPageViewsPercentage": 5.33,
+        "browserPageViewsPercentageB2B": 10.96,
+        "mobileAppPageViewsPercentage": 4.81,
+        "mobileAppPageViewsPercentageB2B": 3.45,
+        "pageViewsPercentage": 4.97,
+        "pageViewsPercentageB2B": 7.63,
+        "buyBoxPercentage": 98.93,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 2.04,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0GSZMKM64",
+      "childAsin": "B0GSZMKM64",
+      "salesByAsin": {
+        "unitsOrdered": 0,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 0,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 15,
+        "browserSessionsB2B": 1,
+        "mobileAppSessions": 21,
+        "mobileAppSessionsB2B": 1,
+        "sessions": 36,
+        "sessionsB2B": 2,
+        "browserSessionPercentage": 1.36,
+        "browserSessionPercentageB2B": 1.96,
+        "mobileAppSessionPercentage": 0.91,
+        "mobileAppSessionPercentageB2B": 2.63,
+        "sessionPercentage": 1.05,
+        "sessionPercentageB2B": 2.25,
+        "browserPageViews": 18,
+        "browserPageViewsB2B": 1,
+        "mobileAppPageViews": 25,
+        "mobileAppPageViewsB2B": 1,
+        "pageViews": 43,
+        "pageViewsB2B": 2,
+        "browserPageViewsPercentage": 1.28,
+        "browserPageViewsPercentageB2B": 1.37,
+        "mobileAppPageViewsPercentage": 0.78,
+        "mobileAppPageViewsPercentageB2B": 1.72,
+        "pageViewsPercentage": 0.93,
+        "pageViewsPercentageB2B": 1.53,
+        "buyBoxPercentage": 90.24,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 0.0,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0H1Q36FPW",
+      "childAsin": "B0H1Q36FPW",
+      "salesByAsin": {
+        "unitsOrdered": 30,
+        "unitsOrderedB2B": 0,
+        "orderedProductSales": {
+          "amount": 510.0,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 0.0,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 30,
+        "totalOrderItemsB2B": 0
+      },
+      "trafficByAsin": {
+        "browserSessions": 147,
+        "browserSessionsB2B": 4,
+        "mobileAppSessions": 115,
+        "mobileAppSessionsB2B": 3,
+        "sessions": 262,
+        "sessionsB2B": 7,
+        "browserSessionPercentage": 13.35,
+        "browserSessionPercentageB2B": 7.84,
+        "mobileAppSessionPercentage": 4.97,
+        "mobileAppSessionPercentageB2B": 7.89,
+        "sessionPercentage": 7.67,
+        "sessionPercentageB2B": 7.87,
+        "browserPageViews": 161,
+        "browserPageViewsB2B": 5,
+        "mobileAppPageViews": 127,
+        "mobileAppPageViewsB2B": 3,
+        "pageViews": 288,
+        "pageViewsB2B": 8,
+        "browserPageViewsPercentage": 11.44,
+        "browserPageViewsPercentageB2B": 6.85,
+        "mobileAppPageViewsPercentage": 3.97,
+        "mobileAppPageViewsPercentageB2B": 5.17,
+        "pageViewsPercentage": 6.25,
+        "pageViewsPercentageB2B": 6.11,
+        "buyBoxPercentage": 99.64,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 11.45,
+        "unitSessionPercentageB2B": 0.0
+      }
+    },
+    {
+      "parentAsin": "B0H1Q65CFD",
+      "childAsin": "B0H1Q65CFD",
+      "salesByAsin": {
+        "unitsOrdered": 11,
+        "unitsOrderedB2B": 1,
+        "orderedProductSales": {
+          "amount": 3299.89,
+          "currencyCode": "USD"
+        },
+        "orderedProductSalesB2B": {
+          "amount": 299.99,
+          "currencyCode": "USD"
+        },
+        "totalOrderItems": 11,
+        "totalOrderItemsB2B": 1
+      },
+      "trafficByAsin": {
+        "browserSessions": 116,
+        "browserSessionsB2B": 3,
+        "mobileAppSessions": 232,
+        "mobileAppSessionsB2B": 6,
+        "sessions": 348,
+        "sessionsB2B": 9,
+        "browserSessionPercentage": 10.54,
+        "browserSessionPercentageB2B": 5.88,
+        "mobileAppSessionPercentage": 10.03,
+        "mobileAppSessionPercentageB2B": 15.79,
+        "sessionPercentage": 10.19,
+        "sessionPercentageB2B": 10.11,
+        "browserPageViews": 154,
+        "browserPageViewsB2B": 6,
+        "mobileAppPageViews": 311,
+        "mobileAppPageViewsB2B": 13,
+        "pageViews": 465,
+        "pageViewsB2B": 19,
+        "browserPageViewsPercentage": 10.95,
+        "browserPageViewsPercentageB2B": 8.22,
+        "mobileAppPageViewsPercentage": 9.71,
+        "mobileAppPageViewsPercentageB2B": 22.41,
+        "pageViewsPercentage": 10.09,
+        "pageViewsPercentageB2B": 14.5,
+        "buyBoxPercentage": 95.06,
+        "buyBoxPercentageB2B": 100.0,
+        "unitSessionPercentage": 3.16,
+        "unitSessionPercentageB2B": 11.11
+      }
+    }
+  ]
+}
